@@ -31,16 +31,26 @@ Par "mesures", on entend aussi :
 
 ---
 
-### Ce que permet cet exercice de groupe
+### Cet exercice permet d’évaluer où vous en êtes professionnellement.
 
 * S’assurer du **respect du timing**.
 * S’assurer que **tout le monde est intégré** dans le projet final.
-* S’assurer que le **Git fonctionne correctement**.
+* Pratiquer l'utilisation de **Git** en groupe.
 * S’assurer d’une **cohérence globale** dans le projet.
 * S’assurer que le **groupe sait collaborer efficacement** 😅
 
-
 Sur ce… **bonne chance** 😜 !
+
+Voici la version corrigée et clarifiée :
+
+---
+
+**La thématique de l'exercice est :**
+"Créer une usine à cookies en XR dans l'étage du bâtiment."
+
+**Note :** Attention pour les **Game Designers de Mons** :
+Ce sont les **développeurs**, avec **XRTK**, qui doivent implémenter le code derrière.
+Restez simples dans vos idées.
 
 
 ---
