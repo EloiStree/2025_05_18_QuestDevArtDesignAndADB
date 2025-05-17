@@ -12,7 +12,7 @@ Cet exercice sera utilisé trois fois 😜 pour faire un peu de recyclage ♻️
 
 ### Objectif
 
-L'idée est simple : nous avons **une journée** pour que, par groupes de **12 à 24 personnes** ne connaissant rien à la XR, nous parvenions à **prendre les mesures d’un bâtiment** et à les **importer dans un dépôt Git commun**.
+L'idée est simple : nous avons **une journée** pour que, par groupes de **12 à 24 personnes** ne connaissant rien à la XR, nous parvenions à **prendre les mesures d’un bâtiment** et à les **importer dans un dépôt Git commun** via les logiciels du Quest3.
 
 Par "mesures", on entend aussi :
 
