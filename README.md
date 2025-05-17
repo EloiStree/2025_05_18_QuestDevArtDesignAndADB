@@ -41,11 +41,7 @@ Par "mesures", on entend aussi :
 
 Sur ce… **bonne chance** 😜 !
 
-Voici la version corrigée et clarifiée :
-
----
-
-**La thématique de l'exercice est :**
+**La thématique de l'exercice est [🍪👵🏭](https://orteil.dashnet.org/cookieclicker/):**
 "Créer une usine à cookies en XR dans l'étage du bâtiment."
 
 **Note :** Attention pour les **Game Designers de Mons** :
