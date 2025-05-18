@@ -29,7 +29,7 @@ Quest to Unity3D, Part 1
       - [ ] Pencil et Contour ?
         - [ ] https://youtu.be/VYNufFLgMDM
 - [ ] Recuperons nos videos et photo depuis SideQuest?
-  - [ ] 
+  - [ ] https://youtu.be/UTDkTYjOBvg
 - [ ] Recuperons les mesures de Open Brush dans Unity3D
   - [ ]   
 - [ ] Utiliser SideQuest pour voir l ecran du Quest3 via SideQuest
