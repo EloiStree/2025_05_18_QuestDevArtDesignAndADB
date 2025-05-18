@@ -14,12 +14,12 @@ Je pars du principe que votre casque est configurer et en developpeur mode.
 - [ ] Courte video sur la prise de mesure sans les maths xD.
 - [ ] Avant d apprendre a utiliser SCRCPY et SIDEQUEST
   - [ ] Gravity Sketch
-  - [ ] KingSpray
-  - [ ] Paint VR
-  - [ ] Polysketch
-  - [ ] Shape XR
-- [ ] Quest3 Remote
-- [ ] 
+    - [ ] KingSpray
+    - [ ] Paint VR
+    - [ ] Polysketch
+    - [ ] Pencil et Contour ?
+- [ ] C est quoi Quest3 Remote
+- [ ] Recuperons nos videos et photo depuis SideQuest?
      
 
 
