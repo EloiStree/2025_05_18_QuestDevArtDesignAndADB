@@ -28,37 +28,29 @@ Quest to Unity3D, Part 1
       - [ ] https://youtu.be/5phHAHHuU2Y
     - [ ] Pencil et Contour ?
       - [ ] https://youtu.be/VYNufFLgMDM
-- [ ] C est quoi Quest3 Remote
-  - [ ] Ajouter plus tard
-- [ ] Les APK 2D sur Quest ;) ?
-  - [ ] https://youtu.be/G3jHpECRS60?t=6
 - [ ] Recuperons nos videos et photo depuis SideQuest?
-     
-
-
-Not:
-- SketchUP
-- Contour
-- Sketch Fab XR
-
-
-
-
-
-  - [ ] To Fetch
-  - [ ] To Fetch
-  - [ ] To Fetch
-  - [ ] To Fetch
-  - [ ] To Fetch
-  - [ ] To Fetch
-  - [ ] To Fetch
-  - [ ] To Fetch
-  - [ ] To Fetch
-  - [ ] To Fetch
   - [ ] 
-
+- [ ] Recuperons les mesures de Open Brush dans Unity3D
+  - [ ]   
+- [ ] Utiliser SideQuest pour voir l ecran du Quest3 via SideQuest
+  - [ ]   
+- [ ] Utiliser SideQuest pour voir l ecran du Quest3 via SCRCPY
+  - [ ] 
 - [ ] Creer un git ou deposer les scans Open Brush et autres
   - [ ] https://github.com/EloiStree/2025_05_20_MeasureOfTechnociteWithQuest3
 
+Game Design XR:
+- [ ] Installer XRTK, VRTK et MRTK depuis SideQuest et SCRCPY
+  - [ ] 
+- [ ] Essayons MRTK, VRTK, XRTK
+  - [ ] https://github.com/EloiStree/2024_07_16_MonsXrDesign/releases/tag/V0/
 
-- [ ] MRTK, VRTK
+Hors sujet
+- [ ] Les APK 2D sur Quest ;) ?
+  - [ ] https://youtu.be/G3jHpECRS60?t=6
+- [ ] C est quoi Quest3 Remote
+  - [ ] Ajouter plus tard
+     
+
+
+
