@@ -41,7 +41,7 @@ Quest to Unity3D, Part 1
 
 Game Design XR:
 - [ ] Installer XRTK, VRTK et MRTK depuis SideQuest et SCRCPY
-  - [ ] 
+  - [ ] https://youtu.be/GzbojUrInOg
 - [ ] Essayons MRTK, VRTK, XRTK
   - [ ] https://github.com/EloiStree/2024_07_16_MonsXrDesign/releases/tag/V0/
 
