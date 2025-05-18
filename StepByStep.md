@@ -16,7 +16,10 @@ Je pars du principe que votre casque est configurer et en developpeur mode.
   - [ ] Gravity Sketch
   - [ ] KingSpray
   - [ ] Paint VR
+  - [ ] Polysketch
   - [ ] Shape XR
+- [ ] Quest3 Remote
+- [ ] 
      
 
 
@@ -43,3 +46,6 @@ Not:
 
 - [ ] Creer un git ou deposer les scans Open Brush et autres
   - [ ] https://github.com/EloiStree/2025_05_20_MeasureOfTechnociteWithQuest3
+
+
+- [ ] MRTK, VRTK
