@@ -1,5 +1,20 @@
-https://youtu.be/mWSGoa3DByE?t=533
 
+**La thématique de l'exercice est [🍪👵🏭](https://orteil.dashnet.org/cookieclicker/):**    
+"Créer une usine à cookies en XR dans l'étage du bâtiment."  
+[Comment sont fait des cookies ?](https://github.com/EloiStree/2025_05_18_QuestDevArtDesignAndADB/blob/main/HowCookieAreMade.md)  
+
+**Note :** Attention pour le groupe de Charleroi.  
+Ne vous concentrez pas trop sur l’aspect gaming, mais davantage sur l’apprentissage, afin de respecter le thème de la formation.  
+
+**Note :** Attention pour les **Game Designers de Mons** .  
+Ce sont les **développeurs**, avec **XRTK**, qui doivent implémenter le code derrière.  
+Restez simples dans vos idées.  
+
+
+------------------------
+
+
+https://youtu.be/mWSGoa3DByE?t=533
 [![image](https://github.com/user-attachments/assets/6b9cf550-12a2-4f91-8d76-d43ceff6bb80)
 ](https://youtu.be/R21teJmEYMU?t=136)
 https://youtu.be/R21teJmEYMU?t=136
