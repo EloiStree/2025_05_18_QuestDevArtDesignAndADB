@@ -23,11 +23,11 @@ Quest to Unity3D, Part 1
       - [ ] https://youtu.be/RK39Qd06rPg
     - [ ] Paint VR
       - [ ]  https://youtu.be/KDO9GQUTDNg
-    - [] Pour le fun 
-    - [ ] Liftoff XR
-      - [ ] https://youtu.be/5phHAHHuU2Y
-    - [ ] Pencil et Contour ?
-      - [ ] https://youtu.be/VYNufFLgMDM
+    - [ ] Pour le fun 
+      - [ ] Liftoff XR
+        - [ ] https://youtu.be/5phHAHHuU2Y
+      - [ ] Pencil et Contour ?
+        - [ ] https://youtu.be/VYNufFLgMDM
 - [ ] Recuperons nos videos et photo depuis SideQuest?
   - [ ] 
 - [ ] Recuperons les mesures de Open Brush dans Unity3D
