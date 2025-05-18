@@ -184,3 +184,10 @@ We are ready to sell
 [![image](https://github.com/user-attachments/assets/ebe012e4-30af-4dfb-8021-d2832480ca1c)
 ](https://youtu.be/Fh7acREmkGs?t=294)
 https://youtu.be/Fh7acREmkGs?t=294
+
+
+
+[![image](https://github.com/user-attachments/assets/65b42777-5009-4005-b310-35b041bac14b)](https://youtu.be/yWUI5R65-ow?t=30)
+
+
+
