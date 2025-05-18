@@ -31,11 +31,11 @@ Quest to Unity3D, Part 1
 - [ ] Recuperons nos videos et photo depuis SideQuest?
   - [ ] https://youtu.be/UTDkTYjOBvg
 - [ ] Recuperons les mesures de Open Brush dans Unity3D
-  - [ ]   
+  - [ ] https://youtu.be/2pNIFYSOVn8
 - [ ] Utiliser SideQuest pour voir l ecran du Quest3 via SideQuest
-  - [ ]   
+  - [ ] To do on NVIDIA PC
 - [ ] Utiliser SideQuest pour voir l ecran du Quest3 via SCRCPY
-  - [ ] 
+  - [ ] To do on NVIDIA PC
 - [ ] Creer un git ou deposer les scans Open Brush et autres
   - [ ] https://github.com/EloiStree/2025_05_20_MeasureOfTechnociteWithQuest3
 
