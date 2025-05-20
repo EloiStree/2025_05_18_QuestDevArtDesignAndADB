@@ -1,4 +1,12 @@
 
+[![image](https://github.com/user-attachments/assets/08342d0d-2e9d-45c1-ba59-6b9131641c69)](https://www.youtube.com/watch?v=UYEyhB0AGlw&t=397s)  
+[![image](https://github.com/user-attachments/assets/ab302342-2d3d-48d4-94e3-6f7fbfa929f4)](https://www.youtube.com/watch?v=ajK1QMP7ZyI&t=1116s)  
+[![image](https://github.com/user-attachments/assets/fea9c3e5-e21c-4812-9b3a-0c103aa14bea)](https://youtu.be/JDbVGYv5X_0?t=508)  
+[![image](https://github.com/user-attachments/assets/969e7059-2e2f-4fe6-86fc-de482de8a0e4)](https://youtu.be/Mn-CmHfB5Uk?t=217)  
+[![image](https://github.com/user-attachments/assets/32ad7e17-c01c-4717-853b-2d0ac11ea44d)](https://youtu.be/8BTI4_hA0Xw?t=9)
+
+-----------------
+
 
 Nous allons prendre les mesures d’un bâtiment dans le but de les utiliser dans un projet commun à 12/24 personnes.
 
