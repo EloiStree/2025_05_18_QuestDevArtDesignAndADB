@@ -1,9 +1,24 @@
 
-Nous allons prendre les mesures d’un bâtiment dans le but de les utiliser dans un projet commun à 12/24 personnes.  
 
-Mon but dans cette démarche étape par étape est de vous montrer comment y arriver.  
+Nous allons prendre les mesures d’un bâtiment dans le but de les utiliser dans un projet commun à 12/24 personnes.
 
-Je pars du principe que votre casque est configuré et en mode développeur.  
+Mon objectif, dans cette démarche étape par étape, est de vous montrer comment y parvenir.
+
+Je pars du principe que votre casque est configuré et en mode développeur.
+
+S'il n’y a que deux vidéos que vous devez regarder pour l’exercice :
+
+* [ ] Prendre des mesures avec Open Brush
+  * [ ] [https://youtu.be/2jzvmntd85g](https://youtu.be/2jzvmntd85g)
+* [ ] Récupérer mes mesures dans Unity depuis Open Brush
+  * [ ] [https://youtu.be/2pNIFYSOVn8](https://youtu.be/2pNIFYSOVn8)
+
+Je vous conseille de tester, durant cette journée, un maximum d’applications différentes, en lien contextuellement avec la formation.
+Mais testez au minimum **Open Brush**, **MRTK**, **VRTK** et **XRI (ou XRTK)**.
+
+
+
+-----------
 
 ### Quest to Unity3D, Part 1  
 - [ ] Comment enregistrer des vidéos depuis le Quest ?  
