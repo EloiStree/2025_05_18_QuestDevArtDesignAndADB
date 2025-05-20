@@ -66,11 +66,19 @@ Mais testez au minimum **Open Brush**, **MRTK**, **VRTK** et **XRI (ou XRTK)**.
 - [ ] Créer un Git où déposer les scans Open Brush et autres  
   - [ ] https://github.com/EloiStree/2025_05_20_MeasureOfTechnociteWithQuest3  
 
+- [ ] A Ajouter
+  - [ ] Comment desactiver et reactiver le guardian en mode developer
+    - [ ] To Record
+  - [ ] Toujours ouvrir Unity3D avant de pusher pour les artistes ".meta"
+
 ### Game Design XR  
 - [ ] Installer XRTK, VRTK et MRTK depuis SideQuest et SCRCPY  
   - [ ] https://youtu.be/GzbojUrInOg  
 - [ ] Essayer MRTK, VRTK, XRTK  
-  - [ ] https://github.com/EloiStree/2024_07_16_MonsXrDesign/releases/tag/V0/  
+  - [ ] https://github.com/EloiStree/2024_07_16_MonsXrDesign/releases/tag/V0/
+  - [ ] MRTK https://www.youtube.com/watch?v=LKohEluBk4k
+  - [ ] VRTK https://www.youtube.com/watch?v=Hm55CR_Ubjc
+  - [ ] XRTK https://www.youtube.com/watch?v=eDicfcAgJB4 
 
 ### Hors sujet  
 - [ ] Les APK 2D sur Quest ;) ?  
