@@ -34,6 +34,7 @@ Git du groupe de Mons: https://github.com/EloiStree/2025_05_22_MonsCookieFactory
 
 ## Jour 1
 
+Video: https://youtu.be/quhUUEwtBms
 **Étape par étape** :
 - [ ] Sortir les casques de leurs boîtes
 - [ ] Comment on l'allume et comment on l'éteint
@@ -77,6 +78,9 @@ Si on, vous, a fini plus tôt. Je vous invite à essayer d'installer des applica
 ---
 
 # Jour 2
+
+Video, part 1: https://youtu.be/M3RV3ZA1xFk  
+Video, part 2: https://youtu.be/Ets44loEmlw  
 
 Premier objectif de la journée, prendre des mesures d'une partie du bâtiment de Technocité Mons.
 Deuxième objectif, prototyper de manière filaire en groupe une usine à cookies fun et minimaliste avec les éléments de XRTK.
