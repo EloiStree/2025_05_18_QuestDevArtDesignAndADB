@@ -10,7 +10,7 @@ Et j'ai depuis vu des projets clients qui demandent :
 - de faire des jeux dans un bâtiment avec le guardian désactivé
 - d'utiliser les AI sur les retours caméras
 - d'utiliser Vuforia et OpenCV sur le flux de la caméra
-- calibrer des multijoueurs utilisant Vuforia Like
+- calibrer des multijoueurs utilisant des Vuforia Like
 - ...
 
 Une très belle année pour trouver des stages et faire de la R&D en AR/XR.
