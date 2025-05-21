@@ -88,9 +88,9 @@ Fournir des vidéos et de la documentation sur ce que vous demandez au développ
 Vous ne serez pas autorisés à rectifier le tir en classe en juillet.)
 
 **Étape par étape** :
-- Aller sur ce Git et créer un issue "Peux-tu m'ajouter"
-  - https://github.com/EloiStree/2025_05_22_MonsCookieFactoryXR
-- Sur le tableau répartissez-vous les mesures à faire durant la journée
+- [ ] Aller sur ce Git et créer un issue "Peux-tu m'ajouter"
+  - [ ] https://github.com/EloiStree/2025_05_22_MonsCookieFactoryXR
+- [ ] Sur le tableau répartissez-vous les mesures à faire durant la journée
 - [ ] Installer MRTK, VRTK, XRTK depuis SideQuest et SCRCPY
   - [ ] https://youtu.be/GzbojUrInOg
 - [ ] Essayer MRTK, VRTK, XRTK
