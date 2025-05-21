@@ -87,7 +87,10 @@ Fournir des vidéos et de la documentation sur ce que vous demandez au développ
 (Vous êtes des GD, vous savez rédiger des bibles et GCD clairs 😉📕:RTFM.
 Vous ne serez pas autorisés à rectifier le tir en classe en juillet.)
 
+**Note : tous les casques ont le même compte, il faut couper le WiFi pour utiliser Open Brush si vous utilisez celui du store.**
+
 **Étape par étape** :
+
 - [ ] Aller sur ce Git et créer un issue "Peux-tu m'ajouter"
   - [ ] https://github.com/EloiStree/2025_05_22_MonsCookieFactoryXR
 - [ ] Sur le tableau répartissez-vous les mesures à faire durant la journée
@@ -124,6 +127,10 @@ Vous ne serez pas autorisés à rectifier le tir en classe en juillet.)
   - [ ] Allez, temps de s'essayer au design de 1/12 de la machine à cookies.
     - [ ] Fabriquer tous une partie de l'étape de production d'une machine à cookies utilisant au moins 2 outils de VRTK.
     - [ ] Reproduire les étapes d'export de Open Brush vers le git de groupe.
+  - [ ] Nice-to-have: Ajouter un credit en format ReadMe.md avec:
+     - [ ]  Nom, Linked-In, GitHub, portfolio
+     - [ ]  3 Groupes de 4 mots qui definisse votre specialiter
+       - [ ] https://github.com/EloiStree/2022_04_20_PitchGuideHackathon
   - [ ] Voila !!
 
 Si tout se passe bien, en fin de journée on devrait avoir une esquisse d'une usine en filaire avec un peu de documentation et des vidéos pour les développeurs.
@@ -135,3 +142,15 @@ Le but ici est d'apprendre à utiliser sur les deux jours :
 - [ ] Vous faire pratiquer une communication indirecte grâce à vos cours précédents.
 
 En espérant que cet atelier vous plaise 😁🍪.
+
+
+-------- 
+
+## Liens
+
+- ADB & SCRCPY https://github.com/Genymobile/scrcpy/releases/tag/v3.2
+- OBS https://obsproject.com
+- Python:https://www.python.org
+- SideQuest https://sidequestvr.com/setup-howto
+- Pocket Coach: https://github.com/EloiStree/2022_04_20_PitchGuideHackathon
+- SCRCPY Bat Files: https://github.com/EloiStree/2024_05_23_SCRCPYBatFiles
