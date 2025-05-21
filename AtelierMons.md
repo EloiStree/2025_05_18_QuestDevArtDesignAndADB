@@ -101,6 +101,9 @@ Vous ne serez pas autorisés à rectifier le tir en classe en juillet.)
 - [ ] Tester rapidement au minimum un ou deux démos de MRTK
 - [ ] Tester une première fois Open Brush pour découvrir.
   - [ ] Dessinez un brouillon filaire en 2-5 minutes max d'une des machines à cookies
+    - [ ] Un gros "red button"
+    - [ ] Structure a taille d adolescent 1.65m 
+    - [ ] Une zone d'apparisions du cookie
   - [ ] Sauver et trouver le menu exporter
 - [ ] Mesurer avec Open Brush la zone qui vous est attribuée
   - [ ] Ajouter au moins deux triangles d'accroche entre les pièces au début du scan
