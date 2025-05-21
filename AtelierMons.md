@@ -28,6 +28,8 @@ L'atelier que je vous propose, si vous l'acceptez :
 
 **Note :** Attention ce sont les **développeurs**, avec **XRTK**, qui doivent implémenter le code derrière. Restez simple.
 
+Git du groupe de Mons: https://github.com/EloiStree/2025_05_22_MonsCookieFactoryXR
+
 ---
 
 ## Jour 1
@@ -87,7 +89,7 @@ Vous ne serez pas autorisés à rectifier le tir en classe en juillet.)
 
 **Étape par étape** :
 - Aller sur ce Git et créer un issue "Peux-tu m'ajouter"
-  - `Ajouter le git ici`
+  - https://github.com/EloiStree/2025_05_22_MonsCookieFactoryXR
 - Sur le tableau répartissez-vous les mesures à faire durant la journée
 - [ ] Installer MRTK, VRTK, XRTK depuis SideQuest et SCRCPY
   - [ ] https://youtu.be/GzbojUrInOg
