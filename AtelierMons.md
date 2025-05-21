@@ -154,3 +154,5 @@ En espérant que cet atelier vous plaise 😁🍪.
 - SideQuest https://sidequestvr.com/setup-howto
 - Pocket Coach: https://github.com/EloiStree/2022_04_20_PitchGuideHackathon
 - SCRCPY Bat Files: https://github.com/EloiStree/2024_05_23_SCRCPYBatFiles
+- Broadcast APK: https://github.com/EloiStree/2025_01_12_BuildAndRunApkBroadcast
+
