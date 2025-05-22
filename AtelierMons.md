@@ -1,3 +1,16 @@
+### To Do Today
+
+**8h15 - 9h30** : Installer et tester XRTK  
+**9h30 - 10h00** : Tester MRTK   
+**10h15 - 11h00** : Rassembler les prefabs Unity  
+**11h00 - 12h00** : S'organiser pour travailler à 12 ?  
+**12h30 - 12h45** : Faire le point  
+**12h45 - 14h00** : Designer une *Cookie Factory* avec Open Brush  
+**14h00 - 15h00** : Documentation vidéo et OBS  
+**15h00 - 16h20** : Parler XR et API caméra pendant que ça build   
+**16h20** : Ranger le matériel, *Laser Dance* et *Cubisme*  
+
+-----------------
 
 Bonjour à vous 😁.
 
@@ -36,17 +49,6 @@ Voici une version corrigée et unifiée de ton planning avec une orthographe et 
 
 ---
 
-### To Do Today
-
-**8h15 - 9h30** : Installer et tester XRTK  
-**9h30 - 10h00** : Tester MRTK   
-**10h15 - 11h00** : Rassembler les prefabs Unity  
-**11h00 - 12h00** : S'organiser pour travailler à 12 ?  
-**12h30 - 12h45** : Faire le point  
-**12h45 - 14h00** : Designer une *Cookie Factory* avec Open Brush  
-**14h00 - 15h00** : Documentation vidéo et OBS  
-**15h00 - 16h20** : Parler XR et API caméra pendant que ça build   
-**16h20** : Ranger le matériel, *Laser Dance* et *Cubisme*  
 
 ---
 
