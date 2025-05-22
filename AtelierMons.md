@@ -37,8 +37,11 @@ Git du groupe de Mons: https://github.com/EloiStree/2025_05_22_MonsCookieFactory
 Video: https://youtu.be/quhUUEwtBms
 **Étape par étape** :
 - [ ] Sortir les casques de leurs boîtes
+  - [ ] https://youtu.be/quhUUEwtBms?t=2 
 - [ ] Comment on l'allume et comment on l'éteint
+  - [ ] https://youtu.be/quhUUEwtBms?t=80
 - [ ] Le bouton menu de la main droite
+  - [ ] https://youtu.be/quhUUEwtBms?t=108
 - [ ] Le menu principal et la connexion WiFi
 - [ ] Faire son premier guardian en roomscale
 - [ ] Activer et désactiver le guardian en mode développeur
