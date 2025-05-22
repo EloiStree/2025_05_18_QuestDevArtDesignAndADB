@@ -156,6 +156,9 @@ En espérant que cet atelier vous plaise 😁🍪.
 - OBS https://obsproject.com
 - Python:https://www.python.org
 - SideQuest https://sidequestvr.com/setup-howto
+  - Open Brush https://openbrush.app
+  - Magic Door24 https://eloistree.itch.io/bonjourunity6
+  - Un jeu dans ma bibliotheque https://eloistree.itch.io/bonjourunity6
 - Pocket Coach: https://github.com/EloiStree/2022_04_20_PitchGuideHackathon
 - SCRCPY Bat Files: https://github.com/EloiStree/2024_05_23_SCRCPYBatFiles
 - Broadcast APK: https://github.com/EloiStree/2025_01_12_BuildAndRunApkBroadcast
