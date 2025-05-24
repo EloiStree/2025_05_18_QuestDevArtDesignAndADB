@@ -1,3 +1,10 @@
+Full video to have idea of what is behind a factory
+[![image](https://github.com/user-attachments/assets/b13e5d78-dbcc-4484-a3f5-6c232e84b00f)](https://youtu.be/8XzYmupdpR8?t=6)  
+https://youtu.be/8XzYmupdpR8?t=6   
+
+
+---------------------------
+
 
 https://youtu.be/mWSGoa3DByE?t=533
 [![image](https://github.com/user-attachments/assets/6b9cf550-12a2-4f91-8d76-d43ceff6bb80)
